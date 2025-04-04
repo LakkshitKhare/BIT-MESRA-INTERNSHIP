@@ -27,3 +27,6 @@ Improve prediction accuracy with larger datasets
 Develop a web-based dashboard for real-time groundwater insights
 
 Integrate satellite data & IoT sensor inputs for enhanced predictions
+
+🔗 Author: Lakkshit Khare
+📩 Contributions and feedback are welcome! 🚀
