@@ -20,3 +20,10 @@ Pandas & NumPy – Data preprocessing & analysis
 Matplotlib & Seaborn – Data visualization
 
 Geospatial Data Processing – Used datasets from various groundwater agencies
+
+📌 Future Improvements
+Improve prediction accuracy with larger datasets
+
+Develop a web-based dashboard for real-time groundwater insights
+
+Integrate satellite data & IoT sensor inputs for enhanced predictions
